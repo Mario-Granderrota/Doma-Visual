@@ -1,0 +1,46 @@
+DOMA VISUAL - EDICIÓN PÚBLICA PARA GITHUB
+
+Estado funcional: versión 0, base estable y mantenible.
+Versión de recursos PWA: 0-icono-app
+Versión del esquema de proyecto: 7
+Licencia: MIT
+
+ANTES DE PUBLICAR O DESPLEGAR:
+1. No añadas al repositorio contraseñas, tokens, proyectos privados ni archivos musicales.
+2. El archivo privado .doma-acceso.php no forma parte del repositorio y está incluido en .gitignore.
+3. Para activar comprobar.php, copia .doma-acceso.example.php como .doma-acceso.php.
+4. Genera un hash con password_hash() y sustituye el marcador de la plantilla.
+5. Ejecuta: node tests/comprobar_proyecto.js
+6. Abre index.php; es el punto de entrada real de la aplicación.
+
+EJEMPLO PARA GENERAR EL HASH:
+php -r "echo password_hash('CAMBIA_ESTA_CLAVE', PASSWORD_DEFAULT), PHP_EOL;"
+
+No uses literalmente CAMBIA_ESTA_CLAVE. Elige una contraseña propia y consérvala fuera del repositorio.
+
+IDENTIDAD VISUAL:
+- icons/icono-app-192.png e icons/icono-app-512.png identifican la PWA y su difusión pública;
+- el marcador técnico de orientación y movimiento de la pista permanece definido en assets/pista.js;
+- los iconos públicos no sustituyen ni modifican ese marcador.
+
+USO PREVISTO:
+- herramienta personal, educativa y de uso aficionado;
+- no sustituye a un instructor, entrenador o profesional veterinario;
+- los ejemplos son demostrativos y no se presentan como reprises oficiales;
+- los proyectos se guardan localmente en el navegador.
+
+DESPLIEGUE:
+- requiere un alojamiento con PHP para comprobar.php;
+- GitHub Pages no ejecuta PHP;
+- sube también .htaccess y la configuración privada creada localmente;
+- ajusta las URL canónicas si publicas fuera de granderrota.com;
+- después de actualizar, cierra completamente la PWA y vuelve a abrirla.
+
+MANTENIMIENTO:
+- no edites previsualizacion.html manualmente;
+- conserva LICENSE y AUTORIA_Y_USO.txt;
+- mantén la versión funcional 0 y el esquema 7 mientras no cambie el formato de datos;
+- añade una prueba cuando corrijas una regresión;
+- evita aumentar archivos o APIs globales sin una responsabilidad clara.
+
+Copyright © Mario Granderrota.

@@ -1,0 +1,63 @@
+{
+  "id": "./",
+  "name": "Doma Visual",
+  "short_name": "Doma Visual",
+  "description": "Herramienta gratuita y de uso aficionado para dibujar recorridos de doma, guardar consejos de clase y repasar el entrenamiento. Sin registro; no sustituye a un instructor.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#f5f6f2",
+  "theme_color": "#35634c",
+  "categories": [
+    "education",
+    "sports",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icons/icono-app-192.png?v=0-icono-app",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icono-app-512.png?v=0-icono-app",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ver el recorrido",
+      "short_name": "Ver recorrido",
+      "description": "Abrir la prueba y repasar sus movimientos",
+      "url": "./index.php"
+    },
+    {
+      "name": "Editar el entrenamiento",
+      "short_name": "Editar",
+      "description": "Abrir directamente el editor del proyecto",
+      "url": "./index.php?source=pwa&action=edit"
+    },
+    {
+      "name": "Repasar consejos",
+      "short_name": "Aprende",
+      "description": "Abrir el modo Aprende con los consejos guardados",
+      "url": "./index.php?source=pwa&mode=aprender"
+    },
+    {
+      "name": "Colocar referencias",
+      "short_name": "Fijos",
+      "description": "Abrir sol, jurado, conos, palos y otros elementos fijos",
+      "url": "./index.php?source=pwa&action=fijos"
+    }
+  ]
+}

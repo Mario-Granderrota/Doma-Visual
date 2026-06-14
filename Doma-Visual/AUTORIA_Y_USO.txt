@@ -1,0 +1,48 @@
+LICENCIA, AUTORÍA Y CONDICIONES DE USO
+
+Esta aplicación es gratuita y se distribuye como software de código abierto.
+
+Se permite su utilización, copia, modificación, adaptación y alojamiento en servidores propios, de acuerdo con los términos de la licencia MIT incluida en el proyecto.
+
+Las copias y versiones modificadas deberán conservar el correspondiente aviso de autoría y la referencia a la licencia original:
+
+Copyright © Mario Granderrota
+
+Se agradecerá que las mejoras, correcciones o ampliaciones realizadas sobre el proyecto reconozcan de forma visible su procedencia y, cuando resulte posible, sean compartidas con la comunidad.
+
+La autorización de uso de la aplicación no implica respaldo, supervisión ni responsabilidad del autor respecto de las modificaciones efectuadas por terceros o del uso que estos hagan del programa.
+
+-------------------------------------------------------------------------------
+
+ÁMBITO PREVISTO Y LÍMITES DE USO
+
+Doma Visual es una herramienta personal, educativa y de uso aficionado. Sirve como apoyo visual para preparar, recordar y comentar recorridos o ejercicios ecuestres, pero no certifica su corrección técnica, su carácter oficial ni su adecuación para un caballo o una persona concretos.
+
+La aplicación no sustituye la supervisión de un instructor o entrenador cualificado, ni el asesoramiento veterinario, sanitario o profesional. Los ejemplos incluidos son demostrativos y no deben considerarse reprises oficiales salvo que el propio usuario haya trasladado fielmente una prueba publicada por la entidad competente.
+
+Cada usuario debe revisar los ejercicios, adaptarlos al nivel, estado físico y experiencia del caballo y de la persona, y detener la actividad ante dolor, miedo, fatiga, inseguridad o cualquier indicio de riesgo. El uso de la herramienta no desplaza esa responsabilidad.
+
+Los proyectos se guardan localmente en el dispositivo y el navegador. Antes de cambiar de dispositivo, borrar datos, reinstalar o efectuar modificaciones importantes, conviene descargar una copia del proyecto.
+
+-------------------------------------------------------------------------------
+
+PRINCIPIOS DE RESPETO Y BIENESTAR
+
+La doma clásica es una disciplina deportiva basada en la comunicación, la confianza y el aprendizaje entre el caballo y la persona.
+
+El bienestar del caballo debe prevalecer sobre cualquier objetivo deportivo, competitivo, económico o personal. Su entrenamiento y manejo deberán realizarse con respeto, atención, paciencia y sensibilidad, evitando toda práctica que pueda causarle dolor, miedo, agotamiento, estrés innecesario o sufrimiento.
+
+El caballo no debe ser considerado un simple instrumento destinado a satisfacer nuestro ocio, rendimiento o bienestar. Es un ser vivo con necesidades físicas, emocionales y sociales propias, con el que establecemos una relación que implica cuidado, responsabilidad y respeto.
+
+Esta aplicación promueve una práctica ecuestre fundada en:
+
+- el respeto a la integridad y a los límites de cada caballo;
+- la observación atenta de su estado físico y emocional;
+- el empleo de métodos de entrenamiento progresivos, proporcionados y comprensibles;
+- el descanso, la recuperación y los cuidados adecuados;
+- el rechazo del maltrato, la violencia y la exigencia desmedida;
+- y la búsqueda de una relación basada en la confianza y no en la dominación.
+
+Estos principios de consideración y respeto deben extenderse también a jinetes, amazonas, entrenadores, personal técnico, jueces, colaboradores, voluntariado y demás personas vinculadas a la actividad ecuestre.
+
+La verdadera calidad de la equitación no se mide únicamente por los resultados obtenidos, sino también por la manera en que se alcanzan.

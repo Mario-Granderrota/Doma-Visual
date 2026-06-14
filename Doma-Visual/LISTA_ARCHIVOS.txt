@@ -1,0 +1,32 @@
+LISTA EXACTA DE ARCHIVOS - EDICIÓN PÚBLICA PARA GITHUB
+
+01. .doma-acceso.example.php
+02. .gitignore
+03. .htaccess
+04. AUTORIA_Y_USO.txt
+05. LEEME_PRIMERO.txt
+06. LICENSE
+07. README.md
+08. assets/aplicacion.js
+09. assets/editor.js
+10. assets/emojis.js
+11. assets/errores.js
+12. assets/estado.js
+13. assets/estilos.css
+14. assets/layout.js
+15. assets/modelo.js
+16. assets/pista.js
+17. comprobar.php
+18. icons/icono-app-192.png
+19. icons/icono-app-512.png
+20. index.php
+21. manifest.webmanifest
+22. offline.html
+23. previsualizacion.html
+24. service-worker.js
+25. tests/comprobar_proyecto.js
+26. LISTA_ARCHIVOS.txt
+
+TOTAL: 26 archivos.
+
+.doma-acceso.php se crea únicamente en cada alojamiento y está excluido por .gitignore.
